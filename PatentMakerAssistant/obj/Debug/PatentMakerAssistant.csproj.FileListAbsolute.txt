@@ -1,0 +1,6 @@
+D:\Project\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.AssemblyReference.cache
+D:\Project\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Husnain\PatentMakerAssistant\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.AssemblyReference.cache
+C:\Users\Aamir Husnain\PatentMakerAssistant\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.CoreCompileInputs.cache
+D:\Html & Test Codes\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.AssemblyReference.cache
+D:\Html & Test Codes\PatentMakerAssistant\PatentMakerAssistant\obj\Debug\PatentMakerAssistant.csproj.CoreCompileInputs.cache

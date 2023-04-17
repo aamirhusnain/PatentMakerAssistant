@@ -1,0 +1,7 @@
+False
+6069340c-80ae-4623-a510-911cfa3e9c621f8f8a1a-4649-4ca4-9a27-122b45abf920
+{85ec8a96-082a-452b-8859-2fc854d1a791}{e1e38417-58ed-4439-a8c3-97eaf06485a4}
+{1ced4784-be61-41d4-9c7d-5ecfe39d1d21}
+1.0.0.0
+PatentMakerAssistant
+_layouts/15/
